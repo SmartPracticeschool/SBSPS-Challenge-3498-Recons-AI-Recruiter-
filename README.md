@@ -10,4 +10,7 @@
 > It will rank the best responses from csv file.
 
 > Then accordingly candidates can be sorted.
+
+> Tean is ready with UI and also uploaded the UI code.
+
 > Link to Video - shorturl.at/FHLU4

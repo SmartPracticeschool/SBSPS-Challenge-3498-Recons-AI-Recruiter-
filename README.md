@@ -10,4 +10,4 @@
 > It will rank the best responses from csv file.
 
 > Then accordingly candidates can be sorted.
-> Link to Video -  shorturl.at/FHLU4
+> Link to Video - shorturl.at/FHLU4

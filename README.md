@@ -13,4 +13,4 @@
 
 > Tean is ready with UI and also uploaded the UI code.
 
-> Link to Video - shorturl.at/FHLU4
+> Link to Video - https://bit.ly/2OsX2Ug
